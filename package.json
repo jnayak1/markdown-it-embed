@@ -1,6 +1,6 @@
 {
-  "name": "markdown-it-video",
-  "version": "0.3.1",
+  "name": "markdown-it-embed",
+  "version": "0.3.4",
   "description": "Markdown-it plugin to embed a hosted videos",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/brianjgeiger/markdown-it-video"
+    "url": "https://github.com/jessenayak/markdown-it-embed"
   },
-  "author": "brianjgeiger",
+  "author": "jessenayak",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brianjgeiger/markdown-it-video/issues"
+    "url": "https://github.com/jessenayak/markdown-it-embed/issues"
   },
-  "homepage": "https://github.com/brianjgeiger/markdown-it-video",
+  "homepage": "https://github.com/jessenayak/markdown-it-embed",
   "keywords": [
     "markdown-it",
     "markdown-it-plugin"
